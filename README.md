@@ -1,4 +1,4 @@
-# revampMylibaray_project
+# README
 # Project Overview
 This project is for COMP3423 Human Computer Interaction,mainly focuses on improving the official "My Library" app by Hong Kong Public Libraries (HKPL). The original app had key design issues violating core HCI principles, leading to confusion and inefficiency. We analyzed 5 critical flaws, proposed targeted solutions, built a Figma prototype, and validated it through user testing.
 
